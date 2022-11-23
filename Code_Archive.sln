@@ -8,6 +8,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MVC 5 Views", "MVC 5 Views"
 		Create with ajax and page refresh\Create-1.cshtml = Create with ajax and page refresh\Create-1.cshtml
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core adding Oath2.0", "Core adding Oath2.0", "{D54D5CBA-1E23-4853-8523-AC35A4B4F3CD}"
+	ProjectSection(SolutionItems) = preProject
+		ResgisteringToBuilder.cs = ResgisteringToBuilder.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
